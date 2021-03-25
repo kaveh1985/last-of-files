@@ -1,0 +1,6 @@
+Credentials cache: API:98470308-569E-422B-AD86-0772D6D16D3E
+        Principal: mramzanz@42.FR
+
+  Issued                Expires               Principal
+Mar  8 14:27:32 2021  Mar 15 14:27:32 2021  krbtgt/42.FR@42.FR
+Mar  8 14:27:34 2021  Mar 15 14:27:32 2021  HTTP/student-storage-2.42.fr@42.FR
